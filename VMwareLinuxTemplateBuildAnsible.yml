@@ -8,7 +8,7 @@
   vars:
     vcenter_hostname: smvcenter.sonicmask.local
     vcenter_user: administrator@vsphere.local
-    vcenter_pass: P@ssw0rd
+    vcenter_pass: 
     esxhost: 10.3.1.2
     datastore: datastore1
     vmtemplate: smlinuxtemplatecentos7
